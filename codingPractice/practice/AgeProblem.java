@@ -27,5 +27,7 @@ public class AgeProblem {
 		int age=sc.nextInt();
 		
 		ageValidator(ca, age);
+		System.out.println("hello");
+		
 	}
 }
